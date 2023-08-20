@@ -1,6 +1,6 @@
 # Activity-Recognition-Classification
 
-# Activity Recognition using AREM Dataset with Ensemble Methods
+
 Overview
 This project focuses on classifying human activities using the AREM dataset. We employ various ensemble methods to improve the accuracy and robustness of the classification.
 
