@@ -1,5 +1,7 @@
 Activity-Recognition-Classification
 
+![image](https://github.com/shuv13111/Activity-Recognition-Classification/assets/15548942/d9495b51-a62d-40eb-abd4-7edd14f2ccc9)
+
 
 Overview
 This project focuses on classifying human activities using the AREM dataset. We employ various ensemble methods to improve the accuracy and robustness of the classification.
